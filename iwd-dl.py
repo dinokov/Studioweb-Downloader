@@ -3,7 +3,6 @@
 #
 
 
-
 import lxml
 import requests
 import bs4
