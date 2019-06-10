@@ -2,7 +2,9 @@
 Download your projects/courses to local disk so you can watch them anytime.
 
 I bought the "Interactive Web Developer course" package from Stefan Mischook on https://www.killersites.com .
-The link to discounted package: https://www.killersites.com/blog/buy-iwd-course-package-with-paypal/
+
+The link to discounted package I bought: https://www.killersites.com/blog/buy-iwd-course-package-with-paypal/
+
 I have limited internet access and wanted to have all videos from the course saved on disk so I can access them anytime.
 
 This python project does exactly that.
