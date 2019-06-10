@@ -1,3 +1,5 @@
+import mymodule
+
 genre = ['pop', 'rock', 'jazz']
 
 # iterate over the list using index
