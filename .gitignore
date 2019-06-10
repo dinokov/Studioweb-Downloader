@@ -1,4 +1,5 @@
 myenv
 __pycache__
 .vscode
+research
 logindata.py

@@ -30,6 +30,7 @@ videoFileName = videoFileName.replace(" ", "")  # remove spaces
 
 
 numElems2 = len(elems2)
+print('Number of videos: ', numElems2)
 coursePartElemVideo = []
 #os.makedirs('videos', exist_ok=True)
 folderName = videoFileName
@@ -59,7 +60,9 @@ for i in range(numElems2):
     tmpVideoFileName = videoFileName + '-' + \
         str(i+1) + '.mp4'
     tmpVideoFileName = os.path.join(folderName, tmpVideoFileName)
-    print('Downloading video to: %s' % (tmpVideoFileName))
+#    print('Downloading video to: %s' % (tmpVideoFileName))
+    print('Downloading video ', i+1, 'of', numElems2,
+          ' to: %s' % (tmpVideoFileName))
     print('#Downloading ', end='')
     videoFile = open(tmpVideoFileName, 'wb')
     for chunk in res.iter_content(100000):
