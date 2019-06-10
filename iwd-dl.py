@@ -5,7 +5,7 @@ import requests
 import bs4
 # this file logindata.py contains loginAddress, address and payload variables
 import logindata
-# you must create this file yourself
+# you must create this file yourself !!
 # if you dont want extra file, you can uncoment and modify those variables bellow
 #
 # This URL will be the URL that your login form points to with the "action" tag.
