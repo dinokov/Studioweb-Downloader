@@ -11,7 +11,7 @@ You have to put your username and password and link to individual course in the 
 Without password the program will download only free files.
 
 1. download file iwd-dl.py
-2. download file logindata.py
+2. download file test-logindata.py and rename it to logindata.py
 3. edit username and password in logindata.py
 4. in logindata.py uncoment only one URL of the page you actually want to scrape videos from
 
