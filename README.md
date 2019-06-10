@@ -23,6 +23,6 @@ address = 'https://projects.studioweb.com/course/introduction-to-twitter-bootstr
 #address = 'https://projects.studioweb.com/course/web-foundations'
 #address = 'https://projects.studioweb.com/course/beginners-jquery'
 ```
-5. run iwd-dl.py
-It will create a new folder and start downloading videos in that folder.
+5. run iwd-dl.py , 
+it will create a new folder and start downloading videos in that folder.
 
